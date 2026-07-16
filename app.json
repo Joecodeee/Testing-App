@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "5a825e1b-f1b3-46db-8b1d-561fb27a4ce6"
+      }
+    },
+    "android": {
+      "package": "com.jojo_expo.testingapp"
+    }
+  }
+}

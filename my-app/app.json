@@ -1,0 +1,15 @@
+{
+  "name": "my-app",
+  "slug": "my-app",
+  "android": {
+    "package": "com.anonymous.myapp"
+  },
+  "ios": {
+    "bundleIdentifier": "com.anonymous.myapp"
+  },
+  "extra": {
+    "eas": {
+      "projectId": "26797242-94f1-4a5b-8c24-6f82cfbb469f"
+    }
+  }
+}
